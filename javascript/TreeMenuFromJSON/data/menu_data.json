@@ -1,0 +1,66 @@
+{
+  "navigation" : [
+    {
+      "id" : "red",
+      "class" : "treeview-red",
+      "label" : "Navigation",
+      "labelClass" : "Menu_Header",
+      "navigation" : 
+      [
+		{
+          "label" : "Search",
+          "link" : "https://www.google.com/",
+          "target" : "_blank"
+		},
+		{
+	  		"label" : "Google",
+	  		"navigation" : 
+	  		[
+	    		{
+	      			"label" : "Mail",
+	      			"link" : "https://mail.google.com",
+	      			"target" : "_blank"
+	    		},
+	    		{
+              		"label" : "Maps",
+              		"link" : "https://maps.google.com",
+              		"target" : "_blank"
+            	},
+	    		{
+              		"label" : "Photos",
+              		"link" : "https://photos.google.com",
+              		"target" : "_blank"
+            	} 
+	  		]
+		},
+		{
+	  		"label" : "Youtube",
+          	"link" : "https://www.youtube.com/",
+          	"target" : "_blank"
+		},
+		{
+	  		"label" : "Yahoo",
+          	"navigation" : 
+          	[
+	    		{
+	      			"label" : "Yahoo Submenu",
+	      			"navigation" : 
+	      			[
+	 					{
+		   					"label" : "Finance",
+		   					"link" : "https://finance.yahoo.com",
+		   					"target" : "_blank"
+	        			},
+						{ 
+		   					"label" : "Mail",
+	           				"link" : "https://mail.yahoo.com",
+	           				"target" : "_blank"
+						}
+	      			]
+	    		}
+          	]
+        }    
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+.Menu_Header {
+	background:		#e7e7e7;
+	width:			100%;
+	font-weight:	bold !important;
+}
+
+#Menu_text {
+	margin-left:		5px;
+	font-weight:		bold !important;
+}
+
+#CollapseAll, #ExpandAll {
+	border:			0;
+	height:			18px;
+	width:			18px;
+	vertical-align:	middle;
+}
+ 
+.treeview-red {
+  	margin-left:	9px !important;
+}
