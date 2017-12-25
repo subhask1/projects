@@ -21,7 +21,7 @@ The basic idea is to create a Generic Tree Menu from a JSON File where all Menu 
 <li><code>navigation</code>: Sub menu blocks.<br><img src="screenshots/menu_data.png" width="100"></li>
 </ul>
 </li>
-<li>Enter <code>http(s)://<host_server_fqdn>:<port>/TreeMenuFromJSON/menu.html</code> on the Browser to display the menu.</li>
+<li>Enter <code>http(s)://&lt;host_server_fqdn&gt;:&lt;port&gt;/TreeMenuFromJSON/menu.html</code> on the Browser to display the menu.</li>
 </ul>
 <h2>Screenshots</h2>
 <img src="screenshots/menu.png" width="100">
